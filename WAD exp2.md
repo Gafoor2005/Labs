@@ -79,4 +79,4 @@ p{
 }
 ```
 ### output
-![output image](./output.png)
+![output image](./assets/output.png)
